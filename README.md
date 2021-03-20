@@ -2,8 +2,15 @@
 Contains python projects completed on Hyperskill -  
 https://hyperskill.org/profile/518836  
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+Projects
+
+- [Hyperskill problems](#hyperskill-problems)
+- [Simple Chatty Bot](#simple-chatty-bot)
+- [Hangman (IN-PROGRESS)](#hangman-in-progress)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Hyperskill problems
 During each project, various code problems are included between each stage.      
