@@ -8,7 +8,7 @@ Projects
 
 - [Hyperskill problems](#hyperskill-problems)
 - [Simple Chatty Bot](#simple-chatty-bot)
-- [Hangman (IN-PROGRESS)](#hangman-in-progress)
+- [Hangman](#hangman)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
