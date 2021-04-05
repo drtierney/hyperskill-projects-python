@@ -9,7 +9,7 @@ Projects
 - [Hyperskill problems](#hyperskill-problems)
 - [Simple Chatty Bot](#simple-chatty-bot)
 - [Hangman](#hangman)
-- [Markdown Editor (in-progress)](#markdown-editor-in-progress)
+- [Markdown Editor](#markdown-editor)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
