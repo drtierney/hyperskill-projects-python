@@ -31,6 +31,9 @@ https://github.com/drtierney/hyperskill-Hangman-Python
 <img src="https://github.com/drtierney/hyperskill-Hangman-python/blob/main/hangman.gif"/>  
 https://hyperskill.org/projects/69
 
-## Markdown Editor (in-progress)
+## Markdown Editor
 Markdown is a special plain text formatting language that is extremely popular among developers. It is used in documents, research articles, Github README files, and other things. In this project, you will write an editor that will be able to recognize several tags, structures, and save your results to a file.  
+https://github.com/drtierney/hyperskill-MarkdownEditor-python  
+
+<img src="https://github.com/drtierney/hyperskill-MarkdownEditor-python/blob/main/markdown-editor.gif"/>  
 https://hyperskill.org/projects/162
