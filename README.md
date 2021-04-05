@@ -10,6 +10,7 @@ Projects
 - [Simple Chatty Bot](#simple-chatty-bot)
 - [Hangman](#hangman)
 - [Markdown Editor](#markdown-editor)
+- [Currency Converter (in-progress)](#currency-converter-in-progress)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
