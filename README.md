@@ -12,6 +12,7 @@ Projects
 - [Markdown Editor](#markdown-editor)
 - [Currency Converter](#currency-converter)
 - [Zookeeper](#zookeeper)
+- [Web Scraper (in-progress)](#web-scraper-in-progress)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
