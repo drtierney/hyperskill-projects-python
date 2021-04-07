@@ -11,7 +11,7 @@ Projects
 - [Hangman](#hangman)
 - [Markdown Editor](#markdown-editor)
 - [Currency Converter](#currency-converter)
-- [Zookeeper (in-progress)](#zookeeper-in-progress)
+- [Zookeeper](#zookeeper)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
