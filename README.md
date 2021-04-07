@@ -53,3 +53,10 @@ https://github.com/drtierney/hyperskill-Zookeeper-python
 
 <img src="https://github.com/drtierney/hyperskill-Zookeeper-python/blob/main/zookeeper.gif"/>
 https://hyperskill.org/projects/98
+
+
+## Web Scraper (in-progress)
+You will create a function that takes a website address and a number of webpages as input arguments and then goes all over the website saving every news article on the page to a separate .txt file on your computer.  
+https://github.com/drtierney/hyperskill-WebScraper-python
+
+https://hyperskill.org/projects/145
