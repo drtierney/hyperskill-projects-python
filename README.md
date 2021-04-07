@@ -45,3 +45,9 @@ https://github.com/drtierney/hyperskill-CurrencyConverter-python
 
 <img src="https://github.com/drtierney/hyperskill-CurrencyConverter-python/blob/main/currency-converter.gif"/>  
 https://hyperskill.org/projects/157
+
+## Zookeeper (in-progress)
+This short code challenge can help the local zoo look after its denizens. You will create a tool for monitoring animals and their status.  
+https://github.com/drtierney/hyperskill-Zookeeper-python
+
+https://hyperskill.org/projects/98
