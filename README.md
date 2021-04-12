@@ -52,12 +52,13 @@ https://hyperskill.org/projects/157
 This short code challenge can help the local zoo look after its denizens. You will create a tool for monitoring animals and their status.  
 https://github.com/drtierney/hyperskill-Zookeeper-python  
 
-<img src="https://github.com/drtierney/hyperskill-Zookeeper-python/blob/main/zookeeper.gif"/>
+<img src="https://github.com/drtierney/hyperskill-Zookeeper-python/blob/main/zookeeper.gif"/>  
 https://hyperskill.org/projects/98
 
 
-## Web Scraper (in-progress)
+## Web Scraper
 You will create a function that takes a website address and a number of webpages as input arguments and then goes all over the website saving every news article on the page to a separate .txt file on your computer.  
-https://github.com/drtierney/hyperskill-WebScraper-python
+https://github.com/drtierney/hyperskill-WebScraper-python  
 
+<img src="https://github.com/drtierney/hyperskill-WebScraper-python/blob/main/web-scraper.gif"/>  
 https://hyperskill.org/projects/145
