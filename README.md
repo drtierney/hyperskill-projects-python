@@ -13,6 +13,7 @@ Projects
 - [Currency Converter](#currency-converter)
 - [Zookeeper](#zookeeper)
 - [Web Scraper](#web-scraper)
+- [Coffee Machine (in-progress)](#coffee-machine-in-progress)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
