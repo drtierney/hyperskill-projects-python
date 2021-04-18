@@ -14,6 +14,7 @@ Projects
 - [Zookeeper](#zookeeper)
 - [Web Scraper](#web-scraper)
 - [Coffee Machine](#coffee-machine)
+- [Tic Tac Toe (in-progess)](#tic-tac-toe-in-progess)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
