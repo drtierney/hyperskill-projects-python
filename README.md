@@ -70,3 +70,9 @@ https://github.com/drtierney/hyperskill-CoffeeMachine-python
 
 <img src="https://github.com/drtierney/hyperskill-CoffeeMachine-python/blob/main/coffee-machine.gif"/>  
 https://hyperskill.org/projects/68
+
+## Tic Tac Toe (in-progess)
+Everybody remembers this paper-and-pencil game from childhood: Tic-Tac-Toe, also known as Noughts and crosses or Xs and Os. A single mistake usually costs you the game, but thankfully it is simple enough that most players discover the best strategy quickly. Let’s program Tic-Tac-Toe and get playing!  
+https://github.com/drtierney/hyperskill-TicTacToe-python  
+
+https://hyperskill.org/projects/73
