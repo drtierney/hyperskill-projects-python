@@ -77,4 +77,10 @@ Everybody remembers this paper-and-pencil game from childhood: Tic-Tac-Toe, also
 https://github.com/drtierney/hyperskill-TicTacToe-python  
 
 <img src="https://github.com/drtierney/hyperskill-TicTacToe-python/blob/main/tic-tac-toe.gif"/>  
-https://hyperskill.org/projects/73
+https://hyperskill.org/projects/73  
+
+## Dominoes (in-progress)
+Have you ever wanted to code a game where the computer is your enemy? Well, this little project allows you to do just that. Take turns playing classic dominoes against your computer in a race to victory. Learn, how artificial intelligence can make use of simple statistics to make educated decisions. This project is all about basic concepts, put them to practice by making a fun little game.
+https://github.com/drtierney/hyperskill-Dominoes-python  
+
+https://hyperskill.org/projects/146  
