@@ -15,7 +15,7 @@ Projects
 - [Web Scraper](#web-scraper)
 - [Coffee Machine](#coffee-machine)
 - [Tic Tac Toe](#tic-tac-toe)
-- [Dominoes (in-progress)](#dominoes-in-progress)
+- [Dominoes](#dominoes)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
