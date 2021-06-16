@@ -88,8 +88,9 @@ https://github.com/drtierney/hyperskill-Dominoes-python
 <img src="https://github.com/drtierney/hyperskill-Dominoes-python/blob/main/dominoes.gif"/>
 https://hyperskill.org/projects/146  
 
-## Duplicate File Handler (In-Progress)
+## Duplicate File Handler
 Duplicate File Handler is a useful tool that can free some space on your drive. Write a handler that checks and compares files in a folder, displays the result, and removes duplicates.  
 https://github.com/drtierney/hyperskill-DuplicateFileHandler-python  
 
+<img src="https://github.com/drtierney/hyperskill-DuplicateFileHandler-python/blob/main/duplicate-file-handler.gif"/>
 https://hyperskill.org/projects/176
