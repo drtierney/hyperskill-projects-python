@@ -16,7 +16,7 @@ Projects
 - [Coffee Machine](#coffee-machine)
 - [Tic Tac Toe](#tic-tac-toe)
 - [Dominoes](#dominoes)
-- [Duplicate File Handler (In-Progress)](#duplicate-file-handler-in-progress)
+- [Duplicate File Handler](#duplicate-file-handler)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
