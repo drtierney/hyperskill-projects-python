@@ -17,7 +17,7 @@ Projects
 - [Tic Tac Toe](#tic-tac-toe)
 - [Dominoes](#dominoes)
 - [Duplicate File Handler](#duplicate-file-handler)
-- [Data Analysis for Hospitals (In-Progess)](#data-analysis-for-hospitals-in-progess)
+- [Data Analysis for Hospitals](#data-analysis-for-hospitals)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
