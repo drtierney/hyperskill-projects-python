@@ -102,4 +102,10 @@ You know the story. Data is everywhere: texts, images, news, spreadsheets. Data 
 https://github.com/drtierney/hyperskill-DataAnalysisForHospitals-python  
 
 <img src="https://github.com/drtierney/hyperskill-DataAnalysisForHospitals-python/blob/main/data-analysis-for-hospital.png"/>
-https://hyperskill.org/projects/152
+https://hyperskill.org/projects/152  
+
+## Food Blog Backend (In-Progress)
+You will create a simple backend that will allow you to populate an SQLite3 database. You will know how to deal with the primary key auto-increment and how to use foreign keys to create relationships between the tables. Learn how to deal with many-to-many relations. Work with SQL queries and database cursor methods.  
+https://github.com/drtierney/hyperskill-FoodBlogBackend-python  
+
+https://hyperskill.org/projects/167
