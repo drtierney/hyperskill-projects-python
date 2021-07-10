@@ -18,7 +18,7 @@ Projects
 - [Dominoes](#dominoes)
 - [Duplicate File Handler](#duplicate-file-handler)
 - [Data Analysis for Hospitals](#data-analysis-for-hospitals)
-- [Food Blog Backend (In-Progress)](#food-blog-backend-in-progress)
+- [Food Blog Backend](#food-blog-backend)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
