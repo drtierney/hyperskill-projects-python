@@ -19,6 +19,7 @@ Projects
 - [Duplicate File Handler](#duplicate-file-handler)
 - [Data Analysis for Hospitals](#data-analysis-for-hospitals)
 - [Food Blog Backend](#food-blog-backend)
+- [Easy Rider Bus Company (In-Progess)](#easy-rider-bus-company-in-progess)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
