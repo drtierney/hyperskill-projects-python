@@ -113,7 +113,7 @@ https://github.com/drtierney/hyperskill-FoodBlogBackend-python
 <img src="https://github.com/drtierney/hyperskill-FoodBlogBackend-python/blob/main/food-blog-backend.gif"/>
 https://hyperskill.org/projects/167
 
-## Easy Rider Bus Company (In-Progess)
+## Easy Rider Bus Company (On Hold)
 In addition to writing your own programs to test data consistency and correctness, you will practice reading documentation, working with data in JSON format, and creating lists and dictionaries. You will also learn how to work with set methods and regular expression library.  
 https://github.com/drtierney/hyperskill-EasyRiderBusCompany-Python  
 
