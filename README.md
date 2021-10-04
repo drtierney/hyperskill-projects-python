@@ -118,3 +118,9 @@ In addition to writing your own programs to test data consistency and correctnes
 https://github.com/drtierney/hyperskill-EasyRiderBusCompany-Python  
 
 https://hyperskill.org/projects/128  
+
+## Bill Splitter (In Progress)
+Work on your Python basics and take a look at more advanced data structures such as dictionaries. Develop an app for managing expenses during your next dine-out.   
+https://github.com/drtierney/hyperskill-BillSplitter-Python  
+
+https://hyperskill.org/projects/175  
