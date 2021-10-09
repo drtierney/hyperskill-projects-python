@@ -126,3 +126,9 @@ https://github.com/drtierney/hyperskill-BillSplitter-Python
 
 <img src="https://github.com/drtierney/hyperskill-BillSplitter-Python/blob/main/bill-splitter.gif"/>
 https://hyperskill.org/projects/175  
+
+## Text-Based Browser (In Progress)
+In this project, you will learn how HTTP works and how to work with it in Python. You will become familiar with Python input and output. You will also need to parse HTML, so you'll get some experience with that, too.  
+https://github.com/drtierney/hyperskill-TextBasedBrowser-Python  
+
+https://hyperskill.org/projects/79
