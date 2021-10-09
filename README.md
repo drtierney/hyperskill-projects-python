@@ -20,7 +20,7 @@ Projects
 - [Data Analysis for Hospitals](#data-analysis-for-hospitals)
 - [Food Blog Backend](#food-blog-backend)
 - [Easy Rider Bus Company (On Hold)](#easy-rider-bus-company-on-hold)
-- [Bill Splitter (In Progress)](#bill-splitter-in-progress)
+- [Bill Splitter](#bill-splitter)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
