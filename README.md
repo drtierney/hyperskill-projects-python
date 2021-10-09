@@ -21,6 +21,7 @@ Projects
 - [Food Blog Backend](#food-blog-backend)
 - [Easy Rider Bus Company (On Hold)](#easy-rider-bus-company-on-hold)
 - [Bill Splitter](#bill-splitter)
+- [Text-Based Browser (In Progress)](#text-based-browser-in-progress)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
