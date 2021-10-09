@@ -120,8 +120,9 @@ https://github.com/drtierney/hyperskill-EasyRiderBusCompany-Python
 
 https://hyperskill.org/projects/128  
 
-## Bill Splitter (In Progress)
+## Bill Splitter
 Work on your Python basics and take a look at more advanced data structures such as dictionaries. Develop an app for managing expenses during your next dine-out.   
 https://github.com/drtierney/hyperskill-BillSplitter-Python  
 
+<img src="https://github.com/drtierney/hyperskill-BillSplitter-Python/blob/main/bill-splitter.gif"/>
 https://hyperskill.org/projects/175  
